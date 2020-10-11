@@ -1,5 +1,7 @@
 ### Getting started
 
+![spiral](spiral.png)
+
 create python virtual environment named `venv`
 
 ```shell
